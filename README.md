@@ -3,12 +3,12 @@
 Welcome to this comprehensive collection of Java pattern programs! This repository contains various star patterns, number patterns, and geometric shapes implemented in Java.
 
 ## 📋 Table of Contents
-- [Overview](#overview)
-- [Star Patterns](#star-patterns)
-- [Number Patterns](#number-patterns)
-- [Geometric Patterns](#geometric-patterns)
-- [How to Run](#how-to-run)
-- [Pattern Index](#pattern-index)
+- [Overview](#-overview)
+- [Star Patterns](#-star-patterns)
+- [Number Patterns](#-number-patterns)
+- [Geometric Patterns](#-geometric-patterns)
+- [How to Run](#-how-to-run)
+- [Pattern Index](#-pattern-index)
 
 ## 🎯 Overview
 
